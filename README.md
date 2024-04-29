@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Repository Template</h3>
+  <h3 align="center">Repository For Brain Go Brr</h3>
 
   <p align="center">
     Simple repository template to get started with GitHub.
