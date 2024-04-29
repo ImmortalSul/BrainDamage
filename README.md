@@ -79,7 +79,7 @@ Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more inf
 
 ## Contact
 
-Alex - [contact@ngjx.org](mailto:contact@ngjx.org)
+Sulaiman - [Email](mailto:idofsulaiman@gmail.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
